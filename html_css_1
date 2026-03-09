@@ -1,0 +1,18 @@
+Simple personal webpage 
+
+1.	Page Title
+o	The title of the page:"My Personal Page"
+2.	Main Heading (h1) with your name.
+3.	About Me Section (h2): "About Me". Short paragraph describing yourself.
+4.	My Hobbies (h2): "My Hobbies". Unordered list (<ul>) with at least 3 hobbies.
+5.	Favorite Website (<a>) link. 
+6.	Image (<img>) related to  your hobbies
+7.	Footer: "Created in 2026"
+
+
+CSS:
+o	use text aligns
+o	 use text color modifications
+o	-use font size modifications
+o	add background color to the webpage
+
