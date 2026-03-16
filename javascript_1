@@ -1,13 +1,21 @@
-Create the following variables with some values. After that write it to the console:
+1) Create the following variables with some values. After that write it to the console:
 -	name 
 -	age 
 -	an array with three number values
 -	an array with four string values
 -	a boolean variable
 
-Create a car object with the following properties and write it to the webpage:
+2) Create a car object with the following properties and write it ot he webpage:
 -	name
 -	age
 -	type
 -	location
+
+3) Create a function with no parameters. This function will write the Hello World tot he console.
+4) Create  a function with two parameter. The function will return the sum of the two parameter. 
+5) Write a function that determine whether a number is even or odd.
+6) Write a function that prints the numbers from 1 to 10.
+7) Write a program that prints the numbers from a (first parameter) to b (second parameter).
+8) Write a function that returns the largest of three numbers.
+9) Write a function that returns sum of numbers . The input parameter is an array.
 
