@@ -1,0 +1,13 @@
+Create the following variables with some values. After that write it to the console:
+-	name 
+-	age 
+-	an array with three number values
+-	an array with four string values
+-	a boolean variable
+
+Create a car object with the following properties and write it to the webpage:
+-	name
+-	age
+-	type
+-	location
+
