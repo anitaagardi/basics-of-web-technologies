@@ -19,7 +19,7 @@
 8) Write a function that returns the largest of three numbers.
 9) Write a function that returns sum of numbers . The input parameter is an array.
 
-10) Create an object that stores people. It should have the following data members (and give them some value):
+10) Create an object that stores a person. It should have the following data members (and give them some value):
 - name
 - age
 - address
