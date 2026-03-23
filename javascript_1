@@ -19,3 +19,33 @@
 8) Write a function that returns the largest of three numbers.
 9) Write a function that returns sum of numbers . The input parameter is an array.
 
+10) Create an object that stores people. It should have the following data members (and give them some value):
+- name
+- age
+- address
+- place of birth
+- date of birth
+- workplace
+
+11) Create an car object with the following data members:
+- make
+- model
+- year
+Modify their values as follows:
+- increase the year
+- add an owner property
+
+12) Create an array to store animal. Animal should have the following properties:
+- name
+- type
+- age
+
+13) Create an object named auto with the following data members:
+- make
+- model
+- year
+- sold (boolean)
+It should have the following methods:
+- a method for incrementing the year
+- the sale, which sets the sold property to true and prints sold to the console
+
