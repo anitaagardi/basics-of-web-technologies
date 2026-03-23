@@ -40,7 +40,7 @@ Modify their values as follows:
 - type
 - age
 
-13) Create an object named auto with the following data members:
+13) Create a car object with the following data members:
 - make
 - model
 - year
