@@ -1,0 +1,1 @@
+Create a function that implements the basic operations of a calculator. It should receive two numbers as parameters and the operation to be performed (addition, subtraction, multiplication, division). The function should perform the operation and then return with the value.
