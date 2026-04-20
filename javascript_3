@@ -1,0 +1,68 @@
+Select element by ID
+Create an HTML page with a <p> element, then change its text.
+________________________________________
+Select element by class
+Create multiple elements with the same class. Print the text of each to the console.
+_______________________________________
+Button Click Event
+Create a button that changes the background color of a <div> when clicked.
+______________________________________
+Create a new element
+Create a new <li> element and add it to a list.
+________________________________________
+Delete Element
+Delete a specific element with a button click.
+________________________________________
+Input field handling
+Create an input field and a button. When the button is pressed, display the input value in a <p> element.
+________________________________________
+Adding and Removing Classes
+Create a button that adds or removes a given CSS class from an element.
+________________________________________
+Modify CSS
+Change the size and color of an element with the click of a button.
+________________________________________
+Modify multiple elements 
+Select all <p> elements and change their color.
+________________________________________
+Form Validation
+Create a simple form (name + email input). Check if the fields are not empty. Display an error message if needed.
+________________________________________
+Simple todo list
+Create a mini todo app with the following:
+• add new task
+• delete task
+________________________________________
+Required Field Check
+Check if all fields are filled in on a form (name, email) when submitting. If not, display an error message.
+________________________________________
+Email format validation
+Check if the email field contains the @ character.
+________________________________________
+Password length check
+Write if the password is shorter than 6 characters.
+________________________________________
+Password confirmation
+Create two password fields and check that they match.
+________________________________________
+Checkbox check
+Create a checkbox for "I accept the terms and conditions". The form should not be submitted if it is not checked.
+________________________________________
+Radio button 
+Write the selected value from multiple options – radio buttons- (e.g. gender: male/female/other).
+________________________________________
+Select (dropdown list) handling
+Display a selected option in a separate element.
+________________________________________
+Highlight errors
+If a field is incorrect, get a red frame (by adding a class).
+________________________________________
+Form reset button
+Create a button that clears all fields.
+________________________________________
+Displaying submitted data
+After submitting a form, display the data in a <div> element.
+________________________________________
+Manage multiple checkboxes
+Create multiple hobby checkboxes. Display the selected ones in a list.
+
